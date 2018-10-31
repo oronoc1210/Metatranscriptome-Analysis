@@ -1,5 +1,6 @@
 # Metatranscriptome-Analysis
-Tools for analyzing the outputs of Kraken and Metaxa2.
+Tools for analyzing the outputs of Kraken and Metaxa2.\
+
 Work from July 2018.
 
 ## Author
